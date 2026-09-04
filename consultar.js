@@ -11,7 +11,7 @@ while (continuar) {
         "Elige una opción (1-4):"
     );
 
-    // Convertimos la opción a número
+    // Convertimos la opción 
     opcion = parseInt(opcion);
 
     switch (opcion) {
